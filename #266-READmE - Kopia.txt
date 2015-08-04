@@ -7,5 +7,4 @@
 - färg enligt globala söken på .active-klassen
 
 --KLAR, återstår portletsar
-Nu tar vi och uppdaterar
 
